@@ -95,6 +95,4 @@ This study provides critical insight into the **energy burden** faced by low-inc
 * `sample` (Low-income)
 * `final_sample` (Cleaned, analyzed subset)
 
----
 
-Let me know if you'd like a `.txt` or `.md` file version to download.
