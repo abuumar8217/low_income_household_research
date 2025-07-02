@@ -1,8 +1,4 @@
-Here’s a professional and clear **README.md** and **Objective** section for your project, based on your detailed code and analysis:
 
----
-
-## 📝 README.md
 
 ### 📌 Project Title:
 
